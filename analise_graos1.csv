@@ -1,0 +1,617 @@
+﻿Ano,UF,Produto_lavouras,kg_hectare
+2011,Rondônia,Milho (em grão),2201
+2011,Rondônia,Soja (em grão),3171
+2011,Acre,Milho (em grão),2230
+2011,Acre,Soja (em grão),3318
+2011,Amazonas,Milho (em grão),2488
+2011,Amazonas,Soja (em grão),3000
+2011,Roraima,Milho (em grão),2000
+2011,Roraima,Soja (em grão),2800
+2011,Pará,Milho (em grão),2570
+2011,Pará,Soja (em grão),2995
+2011,Amapá,Milho (em grão),864
+2011,Amapá,Soja (em grão),-
+2011,Tocantins,Milho (em grão),3615
+2011,Tocantins,Soja (em grão),3013
+2011,Maranhão,Milho (em grão),1695
+2011,Maranhão,Soja (em grão),2962
+2011,Piauí,Milho (em grão),1936
+2011,Piauí,Soja (em grão),2982
+2011,Ceará,Milho (em grão),1262
+2011,Ceará,Soja (em grão),-
+2011,Rio Grande do Norte,Milho (em grão),661
+2011,Rio Grande do Norte,Soja (em grão),-
+2011,Paraíba,Milho (em grão),399
+2011,Paraíba,Soja (em grão),-
+2011,Pernambuco,Milho (em grão),478
+2011,Pernambuco,Soja (em grão),-
+2011,Alagoas,Milho (em grão),820
+2011,Alagoas,Soja (em grão),-
+2011,Sergipe,Milho (em grão),3228
+2011,Sergipe,Soja (em grão),-
+2011,Bahia,Milho (em grão),3281
+2011,Bahia,Soja (em grão),3361
+2011,Minas Gerais,Milho (em grão),5553
+2011,Minas Gerais,Soja (em grão),2899
+2011,Espírito Santo,Milho (em grão),2380
+2011,Espírito Santo,Soja (em grão),-
+2011,Rio de Janeiro,Milho (em grão),2486
+2011,Rio de Janeiro,Soja (em grão),-
+2011,Guanabara,Milho (em grão),...
+2011,Guanabara,Soja (em grão),...
+2011,São Paulo,Milho (em grão),4208
+2011,São Paulo,Soja (em grão),2756
+2011,Paraná,Milho (em grão),5178
+2011,Paraná,Soja (em grão),3393
+2011,Santa Catarina,Milho (em grão),6735
+2011,Santa Catarina,Soja (em grão),3259
+2011,Rio Grande do Sul,Milho (em grão),5250
+2011,Rio Grande do Sul,Soja (em grão),2876
+2011,Mato Grosso do Sul,Milho (em grão),3760
+2011,Mato Grosso do Sul,Soja (em grão),2923
+2011,Mato Grosso,Milho (em grão),4041
+2011,Mato Grosso,Soja (em grão),3223
+2011,Goiás,Milho (em grão),5978
+2011,Goiás,Soja (em grão),3009
+2011,Distrito Federal,Milho (em grão),8112
+2011,Distrito Federal,Soja (em grão),3355
+2012,Rondônia,Milho (em grão),3336
+2012,Rondônia,Soja (em grão),3219
+2012,Acre,Milho (em grão),2370
+2012,Acre,Soja (em grão),-
+2012,Amazonas,Milho (em grão),2567
+2012,Amazonas,Soja (em grão),3000
+2012,Roraima,Milho (em grão),2000
+2012,Roraima,Soja (em grão),2800
+2012,Pará,Milho (em grão),2801
+2012,Pará,Soja (em grão),3120
+2012,Amapá,Milho (em grão),836
+2012,Amapá,Soja (em grão),-
+2012,Tocantins,Milho (em grão),3825
+2012,Tocantins,Soja (em grão),3074
+2012,Maranhão,Milho (em grão),1757
+2012,Maranhão,Soja (em grão),2949
+2012,Piauí,Milho (em grão),2860
+2012,Piauí,Soja (em grão),2793
+2012,Ceará,Milho (em grão),246
+2012,Ceará,Soja (em grão),3366
+2012,Rio Grande do Norte,Milho (em grão),402
+2012,Rio Grande do Norte,Soja (em grão),-
+2012,Paraíba,Milho (em grão),426
+2012,Paraíba,Soja (em grão),-
+2012,Pernambuco,Milho (em grão),410
+2012,Pernambuco,Soja (em grão),-
+2012,Alagoas,Milho (em grão),379
+2012,Alagoas,Soja (em grão),-
+2012,Sergipe,Milho (em grão),3557
+2012,Sergipe,Soja (em grão),-
+2012,Bahia,Milho (em grão),4662
+2012,Bahia,Soja (em grão),2888
+2012,Minas Gerais,Milho (em grão),6197
+2012,Minas Gerais,Soja (em grão),2989
+2012,Espírito Santo,Milho (em grão),2437
+2012,Espírito Santo,Soja (em grão),-
+2012,Rio de Janeiro,Milho (em grão),2435
+2012,Rio de Janeiro,Soja (em grão),-
+2012,Guanabara,Milho (em grão),...
+2012,Guanabara,Soja (em grão),...
+2012,São Paulo,Milho (em grão),5346
+2012,São Paulo,Soja (em grão),2785
+2012,Paraná,Milho (em grão),5524
+2012,Paraná,Soja (em grão),2454
+2012,Santa Catarina,Milho (em grão),5541
+2012,Santa Catarina,Soja (em grão),2392
+2012,Rio Grande do Sul,Milho (em grão),3133
+2012,Rio Grande do Sul,Soja (em grão),1430
+2012,Mato Grosso do Sul,Milho (em grão),5204
+2012,Mato Grosso do Sul,Soja (em grão),2534
+2012,Mato Grosso,Milho (em grão),5709
+2012,Mato Grosso,Soja (em grão),3129
+2012,Goiás,Milho (em grão),6740
+2012,Goiás,Soja (em grão),3146
+2012,Distrito Federal,Milho (em grão),8153
+2012,Distrito Federal,Soja (em grão),3200
+2013,Rondônia,Milho (em grão),3044
+2013,Rondônia,Soja (em grão),3196
+2013,Acre,Milho (em grão),2738
+2013,Acre,Soja (em grão),2702
+2013,Amazonas,Milho (em grão),2506
+2013,Amazonas,Soja (em grão),3000
+2013,Roraima,Milho (em grão),2547
+2013,Roraima,Soja (em grão),2698
+2013,Pará,Milho (em grão),2777
+2013,Pará,Soja (em grão),2669
+2013,Amapá,Milho (em grão),894
+2013,Amapá,Soja (em grão),2850
+2013,Tocantins,Milho (em grão),3669
+2013,Tocantins,Soja (em grão),2904
+2013,Maranhão,Milho (em grão),2614
+2013,Maranhão,Soja (em grão),2808
+2013,Piauí,Milho (em grão),1783
+2013,Piauí,Soja (em grão),1727
+2013,Ceará,Milho (em grão),317
+2013,Ceará,Soja (em grão),-
+2013,Rio Grande do Norte,Milho (em grão),622
+2013,Rio Grande do Norte,Soja (em grão),-
+2013,Paraíba,Milho (em grão),621
+2013,Paraíba,Soja (em grão),-
+2013,Pernambuco,Milho (em grão),575
+2013,Pernambuco,Soja (em grão),-
+2013,Alagoas,Milho (em grão),615
+2013,Alagoas,Soja (em grão),-
+2013,Sergipe,Milho (em grão),4727
+2013,Sergipe,Soja (em grão),-
+2013,Bahia,Milho (em grão),3698
+2013,Bahia,Soja (em grão),2283
+2013,Minas Gerais,Milho (em grão),6132
+2013,Minas Gerais,Soja (em grão),2933
+2013,Espírito Santo,Milho (em grão),2545
+2013,Espírito Santo,Soja (em grão),-
+2013,Rio de Janeiro,Milho (em grão),2362
+2013,Rio de Janeiro,Soja (em grão),-
+2013,Guanabara,Milho (em grão),...
+2013,Guanabara,Soja (em grão),...
+2013,São Paulo,Milho (em grão),5381
+2013,São Paulo,Soja (em grão),3022
+2013,Paraná,Milho (em grão),5802
+2013,Paraná,Soja (em grão),3347
+2013,Santa Catarina,Milho (em grão),6868
+2013,Santa Catarina,Soja (em grão),3043
+2013,Rio Grande do Sul,Milho (em grão),5398
+2013,Rio Grande do Sul,Soja (em grão),2698
+2013,Mato Grosso do Sul,Milho (em grão),4925
+2013,Mato Grosso do Sul,Soja (em grão),2909
+2013,Mato Grosso,Milho (em grão),5908
+2013,Mato Grosso,Soja (em grão),2959
+2013,Goiás,Milho (em grão),6250
+2013,Goiás,Soja (em grão),3024
+2013,Distrito Federal,Milho (em grão),7904
+2013,Distrito Federal,Soja (em grão),2900
+2014,Rondônia,Milho (em grão),3518
+2014,Rondônia,Soja (em grão),3202
+2014,Acre,Milho (em grão),2489
+2014,Acre,Soja (em grão),2738
+2014,Amazonas,Milho (em grão),2944
+2014,Amazonas,Soja (em grão),-
+2014,Roraima,Milho (em grão),2483
+2014,Roraima,Soja (em grão),2122
+2014,Pará,Milho (em grão),2876
+2014,Pará,Soja (em grão),3033
+2014,Amapá,Milho (em grão),911
+2014,Amapá,Soja (em grão),2578
+2014,Tocantins,Milho (em grão),3699
+2014,Tocantins,Soja (em grão),2915
+2014,Maranhão,Milho (em grão),2754
+2014,Maranhão,Soja (em grão),2769
+2014,Piauí,Milho (em grão),2749
+2014,Piauí,Soja (em grão),2375
+2014,Ceará,Milho (em grão),737
+2014,Ceará,Soja (em grão),-
+2014,Rio Grande do Norte,Milho (em grão),562
+2014,Rio Grande do Norte,Soja (em grão),-
+2014,Paraíba,Milho (em grão),421
+2014,Paraíba,Soja (em grão),2400
+2014,Pernambuco,Milho (em grão),325
+2014,Pernambuco,Soja (em grão),-
+2014,Alagoas,Milho (em grão),502
+2014,Alagoas,Soja (em grão),-
+2014,Sergipe,Milho (em grão),4691
+2014,Sergipe,Soja (em grão),-
+2014,Bahia,Milho (em grão),4448
+2014,Bahia,Soja (em grão),2512
+2014,Minas Gerais,Milho (em grão),5476
+2014,Minas Gerais,Soja (em grão),2705
+2014,Espírito Santo,Milho (em grão),2709
+2014,Espírito Santo,Soja (em grão),-
+2014,Rio de Janeiro,Milho (em grão),2407
+2014,Rio de Janeiro,Soja (em grão),-
+2014,Guanabara,Milho (em grão),...
+2014,Guanabara,Soja (em grão),...
+2014,São Paulo,Milho (em grão),5126
+2014,São Paulo,Soja (em grão),2468
+2014,Paraná,Milho (em grão),6185
+2014,Paraná,Soja (em grão),2976
+2014,Santa Catarina,Milho (em grão),7217
+2014,Santa Catarina,Soja (em grão),2978
+2014,Rio Grande do Sul,Milho (em grão),5831
+2014,Rio Grande do Sul,Soja (em grão),2615
+2014,Mato Grosso do Sul,Milho (em grão),5172
+2014,Mato Grosso do Sul,Soja (em grão),2938
+2014,Mato Grosso,Milho (em grão),5426
+2014,Mato Grosso,Soja (em grão),3076
+2014,Goiás,Milho (em grão),6469
+2014,Goiás,Soja (em grão),2814
+2014,Distrito Federal,Milho (em grão),9347
+2014,Distrito Federal,Soja (em grão),3000
+2015,Rondônia,Milho (em grão),4479
+2015,Rondônia,Soja (em grão),3204
+2015,Acre,Milho (em grão),2461
+2015,Acre,Soja (em grão),-
+2015,Amazonas,Milho (em grão),3135
+2015,Amazonas,Soja (em grão),-
+2015,Roraima,Milho (em grão),2974
+2015,Roraima,Soja (em grão),2342
+2015,Pará,Milho (em grão),3319
+2015,Pará,Soja (em grão),3034
+2015,Amapá,Milho (em grão),943
+2015,Amapá,Soja (em grão),2640
+2015,Tocantins,Milho (em grão),3947
+2015,Tocantins,Soja (em grão),2914
+2015,Maranhão,Milho (em grão),3060
+2015,Maranhão,Soja (em grão),2758
+2015,Piauí,Milho (em grão),2972
+2015,Piauí,Soja (em grão),2659
+2015,Ceará,Milho (em grão),264
+2015,Ceará,Soja (em grão),-
+2015,Rio Grande do Norte,Milho (em grão),375
+2015,Rio Grande do Norte,Soja (em grão),-
+2015,Paraíba,Milho (em grão),239
+2015,Paraíba,Soja (em grão),-
+2015,Pernambuco,Milho (em grão),335
+2015,Pernambuco,Soja (em grão),-
+2015,Alagoas,Milho (em grão),822
+2015,Alagoas,Soja (em grão),1978
+2015,Sergipe,Milho (em grão),3284
+2015,Sergipe,Soja (em grão),-
+2015,Bahia,Milho (em grão),3815
+2015,Bahia,Soja (em grão),3134
+2015,Minas Gerais,Milho (em grão),5609
+2015,Minas Gerais,Soja (em grão),2654
+2015,Espírito Santo,Milho (em grão),2292
+2015,Espírito Santo,Soja (em grão),-
+2015,Rio de Janeiro,Milho (em grão),2630
+2015,Rio de Janeiro,Soja (em grão),-
+2015,Guanabara,Milho (em grão),...
+2015,Guanabara,Soja (em grão),...
+2015,São Paulo,Milho (em grão),5803
+2015,São Paulo,Soja (em grão),3039
+2015,Paraná,Milho (em grão),6472
+2015,Paraná,Soja (em grão),3288
+2015,Santa Catarina,Milho (em grão),7606
+2015,Santa Catarina,Soja (em grão),3287
+2015,Rio Grande do Sul,Milho (em grão),6509
+2015,Rio Grande do Sul,Soja (em grão),2983
+2015,Mato Grosso do Sul,Milho (em grão),5785
+2015,Mato Grosso do Sul,Soja (em grão),3108
+2015,Mato Grosso,Milho (em grão),5980
+2015,Mato Grosso,Soja (em grão),3106
+2015,Goiás,Milho (em grão),6786
+2015,Goiás,Soja (em grão),2640
+2015,Distrito Federal,Milho (em grão),8098
+2015,Distrito Federal,Soja (em grão),2626
+2016,Rondônia,Milho (em grão),3824
+2016,Rondônia,Soja (em grão),3087
+2016,Acre,Milho (em grão),2263
+2016,Acre,Soja (em grão),1500
+2016,Amazonas,Milho (em grão),2559
+2016,Amazonas,Soja (em grão),-
+2016,Roraima,Milho (em grão),3342
+2016,Roraima,Soja (em grão),2802
+2016,Pará,Milho (em grão),3260
+2016,Pará,Soja (em grão),3007
+2016,Amapá,Milho (em grão),981
+2016,Amapá,Soja (em grão),2850
+2016,Tocantins,Milho (em grão),3592
+2016,Tocantins,Soja (em grão),2321
+2016,Maranhão,Milho (em grão),2052
+2016,Maranhão,Soja (em grão),1586
+2016,Piauí,Milho (em grão),1464
+2016,Piauí,Soja (em grão),1147
+2016,Ceará,Milho (em grão),242
+2016,Ceará,Soja (em grão),-
+2016,Rio Grande do Norte,Milho (em grão),382
+2016,Rio Grande do Norte,Soja (em grão),-
+2016,Paraíba,Milho (em grão),185
+2016,Paraíba,Soja (em grão),-
+2016,Pernambuco,Milho (em grão),145
+2016,Pernambuco,Soja (em grão),-
+2016,Alagoas,Milho (em grão),1508
+2016,Alagoas,Soja (em grão),3041
+2016,Sergipe,Milho (em grão),1591
+2016,Sergipe,Soja (em grão),-
+2016,Bahia,Milho (em grão),3451
+2016,Bahia,Soja (em grão),2120
+2016,Minas Gerais,Milho (em grão),5302
+2016,Minas Gerais,Soja (em grão),3254
+2016,Espírito Santo,Milho (em grão),2879
+2016,Espírito Santo,Soja (em grão),-
+2016,Rio de Janeiro,Milho (em grão),2690
+2016,Rio de Janeiro,Soja (em grão),-
+2016,Guanabara,Milho (em grão),...
+2016,Guanabara,Soja (em grão),...
+2016,São Paulo,Milho (em grão),5310
+2016,São Paulo,Soja (em grão),3290
+2016,Paraná,Milho (em grão),5406
+2016,Paraná,Soja (em grão),3141
+2016,Santa Catarina,Milho (em grão),7022
+2016,Santa Catarina,Soja (em grão),3238
+2016,Rio Grande do Sul,Milho (em grão),6406
+2016,Rio Grande do Sul,Soja (em grão),2982
+2016,Mato Grosso do Sul,Milho (em grão),3593
+2016,Mato Grosso do Sul,Soja (em grão),3062
+2016,Mato Grosso,Milho (em grão),4106
+2016,Mato Grosso,Soja (em grão),2887
+2016,Goiás,Milho (em grão),4339
+2016,Goiás,Soja (em grão),3093
+2016,Distrito Federal,Milho (em grão),4168
+2016,Distrito Federal,Soja (em grão),3300
+2017,Rondônia,Milho (em grão),4333
+2017,Rondônia,Soja (em grão),3261
+2017,Acre,Milho (em grão),2561
+2017,Acre,Soja (em grão),2055
+2017,Amazonas,Milho (em grão),2516
+2017,Amazonas,Soja (em grão),-
+2017,Roraima,Milho (em grão),6254
+2017,Roraima,Soja (em grão),2407
+2017,Pará,Milho (em grão),3266
+2017,Pará,Soja (em grão),3262
+2017,Amapá,Milho (em grão),983
+2017,Amapá,Soja (em grão),2878
+2017,Tocantins,Milho (em grão),3716
+2017,Tocantins,Soja (em grão),2862
+2017,Maranhão,Milho (em grão),3515
+2017,Maranhão,Soja (em grão),2851
+2017,Piauí,Milho (em grão),3185
+2017,Piauí,Soja (em grão),2907
+2017,Ceará,Milho (em grão),663
+2017,Ceará,Soja (em grão),-
+2017,Rio Grande do Norte,Milho (em grão),302
+2017,Rio Grande do Norte,Soja (em grão),-
+2017,Paraíba,Milho (em grão),355
+2017,Paraíba,Soja (em grão),-
+2017,Pernambuco,Milho (em grão),408
+2017,Pernambuco,Soja (em grão),-
+2017,Alagoas,Milho (em grão),1211
+2017,Alagoas,Soja (em grão),2787
+2017,Sergipe,Milho (em grão),4985
+2017,Sergipe,Soja (em grão),-
+2017,Bahia,Milho (em grão),3836
+2017,Bahia,Soja (em grão),3248
+2017,Minas Gerais,Milho (em grão),6405
+2017,Minas Gerais,Soja (em grão),3468
+2017,Espírito Santo,Milho (em grão),2836
+2017,Espírito Santo,Soja (em grão),-
+2017,Rio de Janeiro,Milho (em grão),2990
+2017,Rio de Janeiro,Soja (em grão),-
+2017,Guanabara,Milho (em grão),...
+2017,Guanabara,Soja (em grão),...
+2017,São Paulo,Milho (em grão),5871
+2017,São Paulo,Soja (em grão),3478
+2017,Paraná,Milho (em grão),6185
+2017,Paraná,Soja (em grão),3663
+2017,Santa Catarina,Milho (em grão),8285
+2017,Santa Catarina,Soja (em grão),3698
+2017,Rio Grande do Sul,Milho (em grão),7298
+2017,Rio Grande do Sul,Soja (em grão),3385
+2017,Mato Grosso do Sul,Milho (em grão),5361
+2017,Mato Grosso do Sul,Soja (em grão),3473
+2017,Mato Grosso,Milho (em grão),6258
+2017,Mato Grosso,Soja (em grão),3290
+2017,Goiás,Milho (em grão),6120
+2017,Goiás,Soja (em grão),3414
+2017,Distrito Federal,Milho (em grão),7052
+2017,Distrito Federal,Soja (em grão),3450
+2018,Rondônia,Milho (em grão),3971
+2018,Rondônia,Soja (em grão),3325
+2018,Acre,Milho (em grão),2675
+2018,Acre,Soja (em grão),2938
+2018,Amazonas,Milho (em grão),2295
+2018,Amazonas,Soja (em grão),-
+2018,Roraima,Milho (em grão),4877
+2018,Roraima,Soja (em grão),2808
+2018,Pará,Milho (em grão),3489
+2018,Pará,Soja (em grão),2939
+2018,Amapá,Milho (em grão),849
+2018,Amapá,Soja (em grão),3115
+2018,Tocantins,Milho (em grão),3731
+2018,Tocantins,Soja (em grão),2900
+2018,Maranhão,Milho (em grão),3196
+2018,Maranhão,Soja (em grão),2969
+2018,Piauí,Milho (em grão),3389
+2018,Piauí,Soja (em grão),3473
+2018,Ceará,Milho (em grão),825
+2018,Ceará,Soja (em grão),2375
+2018,Rio Grande do Norte,Milho (em grão),613
+2018,Rio Grande do Norte,Soja (em grão),-
+2018,Paraíba,Milho (em grão),600
+2018,Paraíba,Soja (em grão),-
+2018,Pernambuco,Milho (em grão),423
+2018,Pernambuco,Soja (em grão),-
+2018,Alagoas,Milho (em grão),1924
+2018,Alagoas,Soja (em grão),2322
+2018,Sergipe,Milho (em grão),3189
+2018,Sergipe,Soja (em grão),-
+2018,Bahia,Milho (em grão),4381
+2018,Bahia,Soja (em grão),3936
+2018,Minas Gerais,Milho (em grão),6475
+2018,Minas Gerais,Soja (em grão),3603
+2018,Espírito Santo,Milho (em grão),3019
+2018,Espírito Santo,Soja (em grão),-
+2018,Rio de Janeiro,Milho (em grão),2891
+2018,Rio de Janeiro,Soja (em grão),-
+2018,Guanabara,Milho (em grão),...
+2018,Guanabara,Soja (em grão),...
+2018,São Paulo,Milho (em grão),5218
+2018,São Paulo,Soja (em grão),3505
+2018,Paraná,Milho (em grão),5327
+2018,Paraná,Soja (em grão),3540
+2018,Santa Catarina,Milho (em grão),7732
+2018,Santa Catarina,Soja (em grão),3470
+2018,Rio Grande do Sul,Milho (em grão),6539
+2018,Rio Grande do Sul,Soja (em grão),3104
+2018,Mato Grosso do Sul,Milho (em grão),3912
+2018,Mato Grosso do Sul,Soja (em grão),3638
+2018,Mato Grosso,Milho (em grão),5925
+2018,Mato Grosso,Soja (em grão),3349
+2018,Goiás,Milho (em grão),5999
+2018,Goiás,Soja (em grão),3462
+2018,Distrito Federal,Milho (em grão),6173
+2018,Distrito Federal,Soja (em grão),3540
+2019,Rondônia,Milho (em grão),4459
+2019,Rondônia,Soja (em grão),3454
+2019,Acre,Milho (em grão),2615
+2019,Acre,Soja (em grão),3177
+2019,Amazonas,Milho (em grão),2340
+2019,Amazonas,Soja (em grão),3000
+2019,Roraima,Milho (em grão),5238
+2019,Roraima,Soja (em grão),2757
+2019,Pará,Milho (em grão),3194
+2019,Pará,Soja (em grão),3084
+2019,Amapá,Milho (em grão),912
+2019,Amapá,Soja (em grão),2534
+2019,Tocantins,Milho (em grão),4190
+2019,Tocantins,Soja (em grão),2890
+2019,Maranhão,Milho (em grão),4235
+2019,Maranhão,Soja (em grão),2915
+2019,Piauí,Milho (em grão),4198
+2019,Piauí,Soja (em grão),3037
+2019,Ceará,Milho (em grão),812
+2019,Ceará,Soja (em grão),-
+2019,Rio Grande do Norte,Milho (em grão),556
+2019,Rio Grande do Norte,Soja (em grão),-
+2019,Paraíba,Milho (em grão),501
+2019,Paraíba,Soja (em grão),-
+2019,Pernambuco,Milho (em grão),385
+2019,Pernambuco,Soja (em grão),-
+2019,Alagoas,Milho (em grão),2487
+2019,Alagoas,Soja (em grão),3299
+2019,Sergipe,Milho (em grão),4838
+2019,Sergipe,Soja (em grão),-
+2019,Bahia,Milho (em grão),3447
+2019,Bahia,Soja (em grão),3361
+2019,Minas Gerais,Milho (em grão),6890
+2019,Minas Gerais,Soja (em grão),3202
+2019,Espírito Santo,Milho (em grão),2874
+2019,Espírito Santo,Soja (em grão),-
+2019,Rio de Janeiro,Milho (em grão),4478
+2019,Rio de Janeiro,Soja (em grão),-
+2019,Guanabara,Milho (em grão),...
+2019,Guanabara,Soja (em grão),...
+2019,São Paulo,Milho (em grão),5685
+2019,São Paulo,Soja (em grão),3199
+2019,Paraná,Milho (em grão),6283
+2019,Paraná,Soja (em grão),3024
+2019,Santa Catarina,Milho (em grão),8041
+2019,Santa Catarina,Soja (em grão),3414
+2019,Rio Grande do Sul,Milho (em grão),7519
+2019,Rio Grande do Sul,Soja (em grão),3179
+2019,Mato Grosso do Sul,Milho (em grão),5024
+2019,Mato Grosso do Sul,Soja (em grão),3018
+2019,Mato Grosso,Milho (em grão),6268
+2019,Mato Grosso,Soja (em grão),3316
+2019,Goiás,Milho (em grão),7183
+2019,Goiás,Soja (em grão),3258
+2019,Distrito Federal,Milho (em grão),7809
+2019,Distrito Federal,Soja (em grão),3480
+2020,Rondônia,Milho (em grão),4205
+2020,Rondônia,Soja (em grão),3435
+2020,Acre,Milho (em grão),2806
+2020,Acre,Soja (em grão),3165
+2020,Amazonas,Milho (em grão),2255
+2020,Amazonas,Soja (em grão),2963
+2020,Roraima,Milho (em grão),5693
+2020,Roraima,Soja (em grão),2802
+2020,Pará,Milho (em grão),2784
+2020,Pará,Soja (em grão),3095
+2020,Amapá,Milho (em grão),911
+2020,Amapá,Soja (em grão),2385
+2020,Tocantins,Milho (em grão),4515
+2020,Tocantins,Soja (em grão),3122
+2020,Maranhão,Milho (em grão),4779
+2020,Maranhão,Soja (em grão),3181
+2020,Piauí,Milho (em grão),4718
+2020,Piauí,Soja (em grão),3230
+2020,Ceará,Milho (em grão),1178
+2020,Ceará,Soja (em grão),3000
+2020,Rio Grande do Norte,Milho (em grão),560
+2020,Rio Grande do Norte,Soja (em grão),-
+2020,Paraíba,Milho (em grão),794
+2020,Paraíba,Soja (em grão),-
+2020,Pernambuco,Milho (em grão),648
+2020,Pernambuco,Soja (em grão),-
+2020,Alagoas,Milho (em grão),1914
+2020,Alagoas,Soja (em grão),3791
+2020,Sergipe,Milho (em grão),5947
+2020,Sergipe,Soja (em grão),-
+2020,Bahia,Milho (em grão),4584
+2020,Bahia,Soja (em grão),3746
+2020,Minas Gerais,Milho (em grão),6869
+2020,Minas Gerais,Soja (em grão),3667
+2020,Espírito Santo,Milho (em grão),3033
+2020,Espírito Santo,Soja (em grão),-
+2020,Rio de Janeiro,Milho (em grão),4753
+2020,Rio de Janeiro,Soja (em grão),-
+2020,Guanabara,Milho (em grão),...
+2020,Guanabara,Soja (em grão),...
+2020,São Paulo,Milho (em grão),5558
+2020,São Paulo,Soja (em grão),3431
+2020,Paraná,Milho (em grão),5865
+2020,Paraná,Soja (em grão),3772
+2020,Santa Catarina,Milho (em grão),7904
+2020,Santa Catarina,Soja (em grão),3375
+2020,Rio Grande do Sul,Milho (em grão),5678
+2020,Rio Grande do Sul,Soja (em grão),1890
+2020,Mato Grosso do Sul,Milho (em grão),5422
+2020,Mato Grosso do Sul,Soja (em grão),3504
+2020,Mato Grosso,Milho (em grão),6327
+2020,Mato Grosso,Soja (em grão),3511
+2020,Goiás,Milho (em grão),6837
+2020,Goiás,Soja (em grão),3592
+2020,Distrito Federal,Milho (em grão),7943
+2020,Distrito Federal,Soja (em grão),3900
+2021,Rondônia,Milho (em grão),4266
+2021,Rondônia,Soja (em grão),3376
+2021,Acre,Milho (em grão),3105
+2021,Acre,Soja (em grão),3368
+2021,Amazonas,Milho (em grão),2261
+2021,Amazonas,Soja (em grão),3333
+2021,Roraima,Milho (em grão),5341
+2021,Roraima,Soja (em grão),3097
+2021,Pará,Milho (em grão),3101
+2021,Pará,Soja (em grão),2962
+2021,Amapá,Milho (em grão),905
+2021,Amapá,Soja (em grão),2680
+2021,Tocantins,Milho (em grão),4269
+2021,Tocantins,Soja (em grão),3134
+2021,Maranhão,Milho (em grão),4693
+2021,Maranhão,Soja (em grão),3166
+2021,Piauí,Milho (em grão),4245
+2021,Piauí,Soja (em grão),3262
+2021,Ceará,Milho (em grão),743
+2021,Ceará,Soja (em grão),3202
+2021,Rio Grande do Norte,Milho (em grão),487
+2021,Rio Grande do Norte,Soja (em grão),-
+2021,Paraíba,Milho (em grão),655
+2021,Paraíba,Soja (em grão),-
+2021,Pernambuco,Milho (em grão),642
+2021,Pernambuco,Soja (em grão),2000
+2021,Alagoas,Milho (em grão),2516
+2021,Alagoas,Soja (em grão),2835
+2021,Sergipe,Milho (em grão),4481
+2021,Sergipe,Soja (em grão),-
+2021,Bahia,Milho (em grão),4208
+2021,Bahia,Soja (em grão),4023
+2021,Minas Gerais,Milho (em grão),5875
+2021,Minas Gerais,Soja (em grão),3609
+2021,Espírito Santo,Milho (em grão),3022
+2021,Espírito Santo,Soja (em grão),-
+2021,Rio de Janeiro,Milho (em grão),4238
+2021,Rio de Janeiro,Soja (em grão),-
+2021,Guanabara,Milho (em grão),...
+2021,Guanabara,Soja (em grão),...
+2021,São Paulo,Milho (em grão),5455
+2021,São Paulo,Soja (em grão),3489
+2021,Paraná,Milho (em grão),3827
+2021,Paraná,Soja (em grão),3480
+2021,Santa Catarina,Milho (em grão),5983
+2021,Santa Catarina,Soja (em grão),3373
+2021,Rio Grande do Sul,Milho (em grão),5656
+2021,Rio Grande do Sul,Soja (em grão),3343
+2021,Mato Grosso do Sul,Milho (em grão),2768
+2021,Mato Grosso do Sul,Soja (em grão),3622
+2021,Mato Grosso,Milho (em grão),5518
+2021,Mato Grosso,Soja (em grão),3381
+2021,Goiás,Milho (em grão),5779
+2021,Goiás,Soja (em grão),3542
+2021,Distrito Federal,Milho (em grão),5400
+2021,Distrito Federal,Soja (em grão),3900
