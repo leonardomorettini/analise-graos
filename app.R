@@ -5,8 +5,7 @@ library(sf)
 library(dplyr)
 
 #Data transformation
-analise_graos <- read.csv ("C:/Users/Leopardo/Documents/Data_analysis/IPEA chamadas publicas/my_shiny_app/ibge_sidra/mapa/analise_graos1.csv")
-
+analise_graos <- read.csv ("analise_graos1.csv")
 
 df_01 <- transform(analise_graos, kg_hectare = as.integer(analise_graos$kg_hectare))
 
